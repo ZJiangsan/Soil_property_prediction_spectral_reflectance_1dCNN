@@ -1,0 +1,1 @@
+# Soil_property_prediction_spectral_reflectance_1dCNN
